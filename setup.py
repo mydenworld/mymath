@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'mymath',
   packages = ['mymath'],
-  version = '1.0',
+  version = '2.0',
   license='MIT',
   description = 'open source advanced calculator',
   author = 'MyDen',
