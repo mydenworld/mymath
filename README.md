@@ -13,8 +13,8 @@ NOTE:
 =====
 	The argument string should not contain any alphabets otherwise this will return "Invalid Syntax"
 
-EXAMPLES:
-=========
+EXAMPLE:
+========
 	sample_program:
 	_______________
 		import mymath # importing mymath library
