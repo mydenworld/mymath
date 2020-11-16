@@ -1,5 +1,6 @@
 # mymath
 A free and open source advanced calculator
+
 USAGE:
 =====
 		This is a simple math solver that takes a sring as a input and procees it and give the float output.
