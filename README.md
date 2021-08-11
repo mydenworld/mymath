@@ -1,5 +1,5 @@
 # mymath
-A free and open source advanced calculator
+This is a free and simple calculator you can use this with you gui application
 
 USAGE:
 =====
